@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url("../img2.png");
+  background-image: url("img2.png");
   background-size: cover;
   background-repeat: no-repeat;
   font-size: 14px;
@@ -32,8 +32,8 @@ a {
 }
 #code {
   display: none;
-  color: rgb(196, 255, 255);
-  font-size: 40px;
+  color: rgb(255, 255, 255);
+  font-size: 50px;
   margin-top: 70px;
   line-height: 25px;
   font-size: larger;
